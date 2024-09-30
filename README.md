@@ -1,5 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/kancell/badge/?version=latest)](https://kancell.readthedocs.io/en/latest/?badge=latest)
-![PyPI](https://img.shields.io/pypi/v/KanCell)
+
 
 # KanCell: Augmented Dissection of Cellular Heterogeneity in Biological Tissues through Integrated Single-Cell and Spatial Transcriptomics
 
