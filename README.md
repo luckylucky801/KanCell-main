@@ -8,7 +8,7 @@
 
 ## Getting Started
 * [Requirements](#Requirements)
-* [Installation](#Installation)
+
 * Tutorials
     * [Deconvolution of cell type composition in breast cancer dataset](docs/tutorials/breast%20cancer.ipynb)
     * [Deconvolution of cell type composition in human heart dataset](docs/tutorials/human_heart.ipynb)
