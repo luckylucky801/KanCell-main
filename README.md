@@ -21,9 +21,8 @@
 
 To install `KanCell`, you must first install [PyTorch](https://pytorch.org) with GPU support. If GPU acceleration is not required, you can skip the installation of `cudnn` and `cudatoolkit`.
 * Create a conda environment for `KanCell`:
-conda env create -f environment.yml
 ```
-or
+conda env create -f environment.yml
 ```
 conda create -n KanCell -c conda-forge -c default cudatoolkit=10.2 python=3.8 rpy2 r-base r-fitdistrplus
 ```
