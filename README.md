@@ -10,7 +10,6 @@
 * [Requirements](#Requirements)
 
 * Tutorials
-    * [Deconvolution of cell type composition in breast cancer dataset](docs/tutorials/breast%20cancer.ipynb)
     * [Deconvolution of cell type composition in human heart dataset](docs/tutorials/human_heart.ipynb)
     * [Deconvolution of cell type composition in melanoma dataset](docs/tutorials/melanoma.ipynb)
     * [Deconvolution of cell type composition in STARmap dataset](docs/tutorials/STARmap.ipynb)
